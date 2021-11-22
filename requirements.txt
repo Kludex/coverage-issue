@@ -1,0 +1,6 @@
+sqlalchemy~=1.4
+asyncpg
+requests
+starlette==0.13.6
+coverage
+gevent
