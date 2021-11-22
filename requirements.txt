@@ -4,3 +4,4 @@ requests
 starlette==0.13.6
 coverage
 gevent
+psycopg2-binary
